@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run h8dsft_Milestone1.py
